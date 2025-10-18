@@ -1,0 +1,13 @@
+*.log
+logs/
+
+*.tmp
+
+build/
+dist/
+target/
+output/
+release/
+debug/
+
+.DS_Store
